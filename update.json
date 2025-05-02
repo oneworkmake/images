@@ -1,9 +1,9 @@
 {
   "apk": {
     "name": "app-release.apk",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "size": "8.38 MB",
-    "download_url": "https://raw.githubusercontent.com/oneworkmake/images/main/app-release.apk",
+    "download_url": "https://raw.githubusercontent.com/oneworkmake/images/main/version3.apk",
     "platform": "Android"
   }
 }
